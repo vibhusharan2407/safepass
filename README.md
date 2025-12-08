@@ -16,7 +16,7 @@ SafePass is a robust KYC (Know Your Customer) API built to verify user identitie
 ## 🛠️ How to Run
 1.  **Clone the repo:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/safepass.git](https://github.com/YOUR_USERNAME/safepass.git)
+    git clone [https://github.com/vibhusharan2407/safepass.git](https://github.com/vibhusharan2407/safepass.git)
     cd safepass
     ```
 2.  **Start the stack:**
