@@ -2,6 +2,9 @@
 
 SafePass is a robust KYC (Know Your Customer) API built to verify user identities automatically. It utilizes **Deep Learning (DeepFace)** to perform facial recognition between a user's ID card and a live selfie, logging all attempts into a **PostgreSQL** database for audit trails.
 
+## Try it here: 
+https://huggingface.co/spaces/v-sharan/safepass
+
 ## 🚀 Tech Stack
 * **Backend:** Python 3.9, FastAPI
 * **AI/ML:** DeepFace, TensorFlow, Keras (VGG-Face Model)
